@@ -1,3 +1,4 @@
 # myfirst-lect
 This is my First Repository.
-Author-Sharan lohana
+<br>
+Author - Sharan lohana
